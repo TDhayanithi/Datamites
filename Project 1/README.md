@@ -1,4 +1,4 @@
-# DATAMITES
+# RUBIXE
 # MNIST-Handwritten-Digit-Recognition-using-CNN
 ## Convolutional Neural Network
 CNN is a type of deep learning model for processing data that has a grid pattern, such as images, which is inspired by the organization of animal visual cortex and designed to automatically and adaptively learn spatial hierarchies of features, from low- to high-level patterns. CNN is a mathematical construct that is typically composed of three types of layers (or building blocks): convolution, pooling, and fully connected layers. The first two, convolution and pooling layers, perform feature extraction, whereas the third, a fully connected layer, maps the extracted features into final output, such as classification
